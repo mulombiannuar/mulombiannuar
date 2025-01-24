@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm **Mulombi Annuar**, a passionate **Software Engineer** with over 8 years of experience in the field. I specialize in **Fullstack Software Development** and **Mobile Development**, with a strong focus on **PHP**, **Python**, **JavaScript**, and **Dart** programming. I’ve worked on a variety of complex projects for both government and private stakeholders, helping to deliver high-quality, scalable solutions.
+Hi there! I'm **Anuary Mulombi**, a passionate **Software Engineer** with over 8 years of experience in the field. I specialize in **Fullstack Software Development** and **Mobile Development**, with a strong focus on **PHP**, **Python**, **JavaScript**, and **Dart** programming. I’ve worked on a variety of complex projects for both government and private stakeholders, helping to deliver high-quality, scalable solutions.
 
 I'm currently transitioning into the world of **Data Science** and **Machine Learning** and am excited about leveraging my software engineering skills to create innovative solutions and tackle real-world problems using AI and machine learning techniques.
 

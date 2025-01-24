@@ -50,10 +50,10 @@ I’m excited to continue learning and collaborating with others in the communit
 Stay connected and follow me on my social media networks:
 
 - **Website**: [mulan.co.ke](https://mulan.co.ke/)
-- **Facebook**: [Mulam Tech](https://www.facebook.com/mulantech)
+- **Facebook**: [Mulam Technologies](https://www.facebook.com/mulantech)
 - **Twitter**: [@mulantech](https://twitter.com/mulantech)
-- **YouTube**: [Mulam Tech Channel](https://www.youtube.com/channel/UCp0mCqz5l4HsUk3OEwm4S4Q)
-- **LinkedIn**: [Mulombi Annuar](https://www.linkedin.com/in/mulombiannuar/)
+- **YouTube**: [Mulam Technologies Channel](https://www.youtube.com/channel/UCp0mCqz5l4HsUk3OEwm4S4Q)
+- **LinkedIn**: [Anuary Mulombi](https://www.linkedin.com/in/mulombiannuar/)
 - **GitHub**: [mulombiannuar](https://github.com/mulombiannuar)
 
 ---

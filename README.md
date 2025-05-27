@@ -14,7 +14,7 @@ I'm currently transitioning into the world of **Data Science** and **Machine Lea
 
 ### Back-End Development:
 - **Languages**: PHP, NodeJS, Python
-- **Frameworks**: Laravel, CodeIgniter, Django, ExpressJS
+- **Frameworks**: Laravel, CodeIgniter, Flask, FastApi, Django, ExpressJS
 
 ### Database Management:
 - **DBMS Technologies**: MySQL, PostgreSQL, SQL Server, MongoDB
